@@ -1,0 +1,47 @@
+setup
+- a2
+- c2
+- d2
+- e2
+- fd2
+- h2
+- h1
+- g1
+- f1
+- e1
+- d1
+- c1
+- b1
+- a1
+- d8
++ P a3
++ P c3
++ P h3
++ R f1
++ R d8
++ K h1
++ Q e4 
+- a7
+- b7 
+- c7 
+- d7 
+- e7 
+- g7 
+- a8 
+- b8 
+- c8
+- e8
+- f8
+- g8
+- h8
++ p a4
++ p c4
++ p e5
++ p f6
++ b f2
++ r g3
++ q e6
++ k g7
+= black
+done
+game computer2 computer2
